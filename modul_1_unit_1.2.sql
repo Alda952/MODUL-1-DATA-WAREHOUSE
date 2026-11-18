@@ -1,5 +1,5 @@
 -- =====================================================================
--- MODUL 1 - UNIT 1.2
+-- MODUL 1 - UNIT 1.2 sql
 -- Data Profiling dan Data Quality Assessment (PostgreSQL, schema src)
 -- Hanya SELECT. Tidak ada UPDATE/DELETE pada raw data.
 -- =====================================================================
